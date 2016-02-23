@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lesregistresdurb12cath/lesregistresdurb12cath_0003.png"; bbox 0 0 2547 3289; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 665 1489 1887 1800">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 665 1489 1887 1800">
+     <span class='ocr_line' id='line_1_1' title="bbox 665 1489 1887 1572; baseline 0.002 -19"><span class='ocrx_word' id='word_1_1' title='bbox 665 1489 989 1572; x_wconf 62' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_2' title='bbox 1025 1489 1109 1572; x_wconf 82' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 1137 1489 1253 1555; x_wconf 74' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_4' title='bbox 1291 1489 1575 1555; x_wconf 67' lang='lat' dir='ltr'>{memet</span> <span class='ocrx_word' id='word_1_5' title='bbox 1603 1489 1887 1555; x_wconf 65' lang='lat' dir='ltr'>Archiv&amp;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 790 1603 1757 1686; baseline 0 -19"><span class='ocrx_word' id='word_1_6' title='bbox 790 1603 846 1667; x_wconf 79' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 880 1604 1067 1669; x_wconf 78' lang='lat'>2009</span> <span class='ocrx_word' id='word_1_8' title='bbox 1098 1603 1247 1669; x_wconf 74' lang='lat' dir='ltr'><strong>with</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1280 1603 1561 1686; x_wconf 71' lang='lat' dir='ltr'>fundinq</span> <span class='ocrx_word' id='word_1_10' title='bbox 1593 1603 1757 1669; x_wconf 78' lang='lat' dir='ltr'>from</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 891 1716 1664 1800; baseline 0 -17"><span class='ocrx_word' id='word_1_11' title='bbox 891 1717 1266 1800; x_wconf 77' lang='lat' dir='ltr'>University</span> <span class='ocrx_word' id='word_1_12' title='bbox 1296 1717 1365 1783; x_wconf 80' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_13' title='bbox 1393 1716 1664 1783; x_wconf 76' lang='lat' dir='ltr'>Ottawa</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 258 3014 2291 3112">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 258 3014 2291 3112">
+     <span class='ocr_line' id='line_1_4' title="bbox 258 3014 2291 3112; baseline 0 -34"><span class='ocrx_word' id='word_1_14' title='bbox 258 3014 2291 3112; x_wconf 66' lang='lat' dir='ltr'>http:sswwwarchiveosqsdetailsslesreqistresdurb12cath</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
